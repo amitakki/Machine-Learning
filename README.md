@@ -12,4 +12,6 @@
 * [Udemy - Become a Linear Algebra Master](https://www.udemy.com/course/linear-algebra-course/)
 * [Udemy - Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
 
+### YouTube Tutorials
 
+[Linear Algebra for Machine Learning - Dr. John Krhon](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
