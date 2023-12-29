@@ -15,3 +15,4 @@
 ### YouTube Tutorials
 
 * [Linear Algebra for Machine Learning - Dr. John Krhon](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
+    * [Github repo](https://github.com/jonkrohn/ML-foundations)
