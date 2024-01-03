@@ -17,3 +17,10 @@
 * [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Linear Algebra for Machine Learning - Dr. John Krhon](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
     * [Github repo](https://github.com/jonkrohn/ML-foundations)
+* [PreCalulus- Algebra](https://www.youtube.com/@SchulerTutors/playlists)
+
+## Calculus
+
+### YouTube Tutorials
+
+* [Essence of Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
