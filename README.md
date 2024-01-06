@@ -2,7 +2,7 @@
 
 ## Mathematical Foundations
 * [Udemy - Mathematical Foundations of Machine Learning](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/)
-
+* [Mathematics Foundations - Krista King](https://www.youtube.com/@kristakingmath/playlists)
 
 ### Linear Algebra 
 
@@ -18,6 +18,7 @@
 * [Linear Algebra for Machine Learning - Dr. John Krhon](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
     * [Github repo](https://github.com/jonkrohn/ML-foundations)
 * [PreCalulus- Algebra](https://www.youtube.com/@SchulerTutors/playlists)
+
 
 ### Calculus
 
