@@ -4,6 +4,7 @@
 * [Udemy - Mathematical Foundations of Machine Learning](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/)
 * [Mathematics Foundations - Krista King](https://www.youtube.com/@kristakingmath/playlists)
 * [HELM Workbooks](https://nucinkis-lab.cc.ic.ac.uk/HELM/helm_workbooks.html)
+* [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
 ### Linear Algebra 
 
