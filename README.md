@@ -1,21 +1,21 @@
 # Machine-Learning
 
 ## Mathematical Foundations
+* [Mathematics For Machine Learning Course (FREE)](https://www.marktechpost.com/mathematics-for-machine-learning-course-free/)
 * [Udemy - Mathematical Foundations of Machine Learning](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/)
 * [Mathematics Foundations - Krista King](https://www.youtube.com/@kristakingmath/playlists)
 * [HELM Workbooks](https://nucinkis-lab.cc.ic.ac.uk/HELM/helm_workbooks.html)
 * [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 * [zedstatistics](https://www.youtube.com/@zedstatistics)
 
-
 ### Linear Algebra 
 
 #### Online Courses
 
+* [MIT Lectures](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 * [edX - Linear Algebra - Foundations to Frontiers](https://learning.edx.org/course/course-v1:UTAustinX+UT.5.05x+1T2022/home)
 * [Udemy - Become a Linear Algebra Master](https://www.udemy.com/course/linear-algebra-course/)
 * [Udemy - Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
-* [MIT Lectures](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 
 #### YouTube Tutorials
 
