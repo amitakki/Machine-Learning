@@ -35,5 +35,5 @@
 ## Machine Learning
 
 * [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-   *[Syllabus and Course Schedule](https://cs229.stanford.edu/syllabus-autumn2018.html)
+   * [Syllabus and Course Schedule](https://cs229.stanford.edu/syllabus-autumn2018.html)
 * [Machine Learning by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
