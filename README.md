@@ -8,6 +8,12 @@
 * [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 * [zedstatistics](https://www.youtube.com/@zedstatistics)
 
+### Mathematical Optimization
+* [Optimization Methods for Machine Learning and Engineering (KIT Winter Term 20/21)](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5)
+#### Gradient Descent
+* [Part 1](https://www.youtube.com/watch?v=sXUf5kx2Gi8)  [Part 2](https://www.youtube.com/watch?v=n5Cax1wUlV0)  [Part 3](https://www.youtube.com/watch?v=DjF3GiCazwc)
+
+
 ### Linear Algebra 
 
 #### Online Courses
